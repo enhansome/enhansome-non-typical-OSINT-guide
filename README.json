@@ -15,7 +15,7 @@
             "last_commit": "2025-06-26T23:21:05Z",
             "owner": "ARPSyndicate",
             "repo": "awesome-intelligence",
-            "stars": 2400
+            "stars": 2401
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-06-14T20:23:26Z",
             "owner": "WebBreacher",
             "repo": "obsidian-osint-templates",
-            "stars": 804
+            "stars": 803
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-19T05:34:57Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 89798
+            "stars": 89818
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2025-06-23T12:16:37Z",
             "owner": "LiLittleCat",
             "repo": "awesome-free-chatgpt",
-            "stars": 21223
+            "stars": 21224
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2026-05-12T12:42:04Z",
             "owner": "cipher387",
             "repo": "osint_stuff_tool_collection",
-            "stars": 8696
+            "stars": 8697
           }
         },
         {
@@ -444,7 +444,7 @@
             "last_commit": "2025-04-21T08:23:07Z",
             "owner": "Moham3dRiahi",
             "repo": "Th3inspector",
-            "stars": 2658
+            "stars": 2659
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2025-06-26T23:21:05Z",
             "owner": "ARPSyndicate",
             "repo": "awesome-intelligence",
-            "stars": 2400
+            "stars": 2401
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2026-08-18T00:32:33Z",
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28166
+            "stars": 28172
           }
         },
         {
@@ -666,7 +666,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21192
+            "stars": 21193
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2026-07-29T02:15:51Z",
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7693
+            "stars": 7694
           }
         },
         {
@@ -696,7 +696,7 @@
             "last_commit": "2024-01-04T22:41:58Z",
             "owner": "mikeroyal",
             "repo": "Digital-Forensics-Guide",
-            "stars": 3091
+            "stars": 3092
           }
         },
         {
@@ -711,7 +711,7 @@
             "last_commit": "2026-08-09T03:52:55Z",
             "owner": "osintbrazuca",
             "repo": "osint-brazuca",
-            "stars": 2661
+            "stars": 2663
           }
         },
         {
@@ -816,7 +816,7 @@
             "last_commit": "2026-08-18T00:32:33Z",
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28166
+            "stars": 28172
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2026-08-17T12:24:10Z",
             "owner": "projectdiscovery",
             "repo": "katana",
-            "stars": 17331
+            "stars": 17333
           }
         },
         {
@@ -906,7 +906,7 @@
             "last_commit": "2026-05-12T12:42:04Z",
             "owner": "cipher387",
             "repo": "osint_stuff_tool_collection",
-            "stars": 8696
+            "stars": 8697
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "last_commit": "2024-08-10T08:32:42Z",
             "owner": "Forichok",
             "repo": "TelegramOnlineSpy",
-            "stars": 522
+            "stars": 521
           }
         },
         {
@@ -1079,7 +1079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:41:49.114Z",
+    "last_updated": "2026-08-19T18:53:16.903Z",
     "original_repository": "OffcierCia/non-typical-OSINT-guide",
     "original_repository_id": 618411219,
     "original_repository_sha": "57fa77d38e92a844ab12b85117d2d34162b32b1b",
