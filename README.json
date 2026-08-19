@@ -1,19 +1,1087 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only."
+      "description": "To begin with, I want to say that I will consider OSINT as a set of skills or a mindset, because it can be directly related to doxing, military GEO-INT performed by a security company employee or just media OSINT performed by a VC fund employee in order to find new projects for investment, taking the theory of handshakes as a basis...\n...Or even a crypto-forensics specialist investigating a major Web3.0 hack case. In other words, it can be used in all spheres of life because it is only a method of working with, assessing and ranking information - do not ever forget that we are all living in the Information Era.\nAll of what I said above you can develop in yourself, but the essence of all directions is the same - the ability to notice valuable information, anomalies, see the differences, carefully analyze the facts and build a logical chain - while being in the flow of information. Start up from checking out your own info and your own data: make an OSINT research against yourself. Collect all data, visualize it, then, erase - with using SERM/ORM techniques.\nI would like to give you the first lesson, all resources which I will advise you - I studied by myself earlier:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Intelligence",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 584351443,
+            "language": null,
+            "last_commit": "2025-06-26T23:21:05Z",
+            "owner": "ARPSyndicate",
+            "repo": "awesome-intelligence",
+            "stars": 2400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On-Chain Investigations Handbook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 568727854,
+            "language": null,
+            "last_commit": "2026-06-03T14:21:13Z",
+            "owner": "OffcierCia",
+            "repo": "On-Chain-Investigations-Tools-List",
+            "stars": 1924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WhatBreach",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 182323091,
+            "language": "Python",
+            "last_commit": "2025-08-14T14:29:48Z",
+            "owner": "Ekultek",
+            "repo": "WhatBreach",
+            "stars": 1652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "More OpSec Studies",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71270796,
+            "language": null,
+            "last_commit": "2016-11-15T19:49:03Z",
+            "owner": "lawsecnet",
+            "repo": "OPSEC",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Introduction: Civil OSINT"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Thank you! 🙏"
+      "description": "I can also recommend that you turn to an interesting subculture that is suitable for introverts! I am sure that everyone is interested in various strange phenomena in one way or another. Immerse yourself in a net-stalking environment!\nSometimes ordinary people were able to solve crimes which the police could not solve for years with OSINT and GEOINT alone (I could put in here links to subreddits, movies and news but since you and I are now doing OSINT I advise you to find it on your own).\nAlso check out:\nThe main thing to remember is your health, it is above all, do not let your principles be shaken by what you see. You are an observer! Here well helps to understand the psychology of SCP researchers (when nothing is clear, but the scientific method helps to put everything in its place).\nKeep in mind that in this part of the Global Internet (I mean OSINT in general, not only the Net-stalking), the percentage of people who are actively looking for problems or need to express their emotions is no different from other places!\nScience + OSINT:\nPractising:\nSo, follow OpSec rules and don't make too many mistakes. Conduct your activities from a separate, isolated device.\nCognitive bias mitigation & decision-making when doing OSINT:\nThere are no perfect practitioners-analysts, everyone makes mistakes and gets into difficult ambiguous situations (at least once in their life), all the more in conditions of acutely intensive and chronic work overload. And it is absolutely necessary for a practitioner-analyst to know and understand such situations.\nCognitive vulnerabilities (in the established understanding) are exposures and/or tendencies to defects in thinking: significant cognitive distortions, erroneous beliefs, cognitive biases (biases), or stereotyped patterns of thinking that create the basis for a person's predisposition to cognitive failures and lead to distortions and dysfunctions of thought processes.\nMost of us experience 'gut feelings' we can't explain, such as instantly loving (or hating) a new property when we're househunting or the snap judgments we make on meeting new people. Now researchers say these feelings (or intuitions) - are real and we should take our hunches seriously.\nDon't limit yourself to one approach; don't be afraid to try experiments, but keep in mind that the outcomes of such approaches should always be double-checked. They serve more as learning tools than as actual advice for investigators. Visit the following websites:\nAlso:\nAccording to wondersmith_rae: In classical rhetoric, the “elements of circumstance” created by Aristotle have been used to analyze rhetorical questions for ages. They also apply to modern-day analysis and can be used as a foundation for an investigation. (Who, what, when, where, why, in what way, by what means)\nA condensed yet equally valuable version of the elements is called the “5W’s and an H” or Who, What, When, Where, Why, and How. These questions have been used in rhetoric, religious study, police investigations, journalism, and by lawyers since ancient Greece. It is said that an investigation can not be truly complete until all of the Ws and the H can be answered.\nApplying the same elements to our OSINT investigations we can ask and answer similar questions. By answering the 5W’s a narrative begins to emerge from our collected data. It is now up to us as analysts to connect the dots in a succinct way. The catch is, that anyone who has done research knows that when information starts to be uncovered it is easy to get stuck in a rabbit hole.\nOnce you can distinguish the information, sort it out then the next thing you can do is start practicing. As you know, good practice requires good motivation! You only need to know one thing: people think that intelligence is fixed — but it isn’t. Your brain is like a muscle; the more you use it, the more it grows. Education is no longer a one-time event, but a lifelong experience.\nAlso check out:\nRecent surveys show that over 97% of businesses store data in the Cloud. Learn how to identify potential sources of Cloud data, issue discovery requests, and implement litigation holds, as well as how to preserve, collect, filter, review, and produce Cloud data.\nInformation relevant to your case is on the Internet, usually hiding in plain sight. Business records, domain name registrations, websites, online user identities, social media posts, photos, and videos are only a search query away. Do you know how to find it? Learn how open source information can impact a broad range of matters and how to effectively identify sources of information and search for open source data.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "obsidian.md OSINT Templates",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 459411645,
+            "language": null,
+            "last_commit": "2026-06-14T20:23:26Z",
+            "owner": "WebBreacher",
+            "repo": "obsidian-osint-templates",
+            "stars": 804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSINT Browser Extensions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 636812748,
+            "language": null,
+            "last_commit": "2026-05-04T07:02:50Z",
+            "owner": "The-Osint-Toolbox",
+            "repo": "OSINT-Browser-Extensions",
+            "stars": 419
+          }
+        }
+      ],
+      "title": "Immersive & Gamified Learning: Tricks (a)"
+    },
+    {
+      "description": "Good training materials:\nHere is a very good brain-stretching game will help to train associative thinking - a very important skill for anyone in OSINT:\nWhen I was young we played «5 steps till Ragnarok» - the goal was to find the page about this myth in 5 steps (5 clicks) from any random Wikipedia page! 🙂\nFollow top OSINT specialists:\nMore Resources:\nIn addition to its traditional function of enabling less miscalculated decisions, the audience of modern intelligence is growing beyond state or corporation leadership, and is expanding to the public. It is no longer a mere warning mechanism, but also a know-how reservoir and improvisation pool to resolve matters in times of unexpected crises.\nTools (AI, ChatGPT, ML, Others):\nIn recent years, public interest in open-source intelligence gathering and analysis has increased exponentially. As this interest has grown, more and more OSINT investigations have been relying on tools and automation, leaving the analysis process behind. You should consider OSINT a thought process. The \"OSINT state of mind\" is key for keeping track of your investigative steps, picking the right tools and sources, analyzing the data, and reporting to generate actionable intelligence!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Cyber Skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78006975,
+            "language": null,
+            "last_commit": "2024-07-02T03:39:39Z",
+            "owner": "joe-shenouda",
+            "repo": "awesome-cyber-skills",
+            "stars": 4627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python for OSINT 21 days",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 619299823,
+            "language": "Python",
+            "last_commit": "2026-01-06T08:16:28Z",
+            "owner": "cipher387",
+            "repo": "python-for-OSINT-21-days",
+            "stars": 1118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Maps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 251352423,
+            "language": null,
+            "last_commit": "2026-08-11T06:56:42Z",
+            "owner": "simsieg",
+            "repo": "awesome-maps",
+            "stars": 501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "New-Generation OSINT Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 686821225,
+            "language": "JavaScript",
+            "last_commit": "2025-05-19T05:54:54Z",
+            "owner": "gowthamaraj",
+            "repo": "OSINT-Explorer",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Social Media OSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 616106096,
+            "language": null,
+            "last_commit": "2026-07-12T10:51:45Z",
+            "owner": "The-Osint-Toolbox",
+            "repo": "Social-Media-OSINT",
+            "stars": 981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Research OSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 620996247,
+            "language": null,
+            "last_commit": "2026-07-12T10:36:32Z",
+            "owner": "The-Osint-Toolbox",
+            "repo": "Image-Research-OSINT",
+            "stars": 528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome OSINT + Crypto",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 575629932,
+            "language": null,
+            "last_commit": "2025-03-25T15:14:47Z",
+            "owner": "aaarghhh",
+            "repo": "awesome_osint_blockchain_analysis",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geolocation OSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 621423000,
+            "language": null,
+            "last_commit": "2026-05-24T06:52:19Z",
+            "owner": "The-Osint-Toolbox",
+            "repo": "Geolocation-OSINT",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NATO OSINT HandBook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71270796,
+            "language": null,
+            "last_commit": "2016-11-15T19:49:03Z",
+            "owner": "lawsecnet",
+            "repo": "OPSEC",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sherlock",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 162998479,
+            "language": "Python",
+            "last_commit": "2026-08-19T05:34:57Z",
+            "owner": "sherlock-project",
+            "repo": "sherlock",
+            "stars": 89798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Free ChatGPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 611618121,
+            "language": "Python",
+            "last_commit": "2025-06-23T12:16:37Z",
+            "owner": "LiLittleCat",
+            "repo": "awesome-free-chatgpt",
+            "stars": 21223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSINT + AI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 594487852,
+            "language": "HTML",
+            "last_commit": "2026-08-01T11:57:14Z",
+            "owner": "jiep",
+            "repo": "offensive-ai-compilation",
+            "stars": 1418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Offensive AI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 594487852,
+            "language": "HTML",
+            "last_commit": "2026-08-01T11:57:14Z",
+            "owner": "jiep",
+            "repo": "offensive-ai-compilation",
+            "stars": 1418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSINT Buddy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 396323335,
+            "language": "TypeScript",
+            "last_commit": "2025-04-13T14:15:16Z",
+            "owner": "jerlendds",
+            "repo": "osintbuddy",
+            "stars": 840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSINT - SAN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 329798972,
+            "language": null,
+            "last_commit": "2026-03-19T14:17:16Z",
+            "owner": "Bafomet666",
+            "repo": "OSINT-SAN",
+            "stars": 614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatGeoPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 615434430,
+            "language": "Python",
+            "last_commit": "2023-04-13T01:36:55Z",
+            "owner": "earth-genome",
+            "repo": "ChatGeoPT",
+            "stars": 196
+          }
+        }
+      ],
+      "title": "Training & Practicing"
+    },
+    {
+      "description": "Some will enjoy analyzing images, satellite images, calculating time and place from the angle of shadows from a photo, or measuring mountain peak size in order to perform private detective investigations. Or, let's say, doing OSINT in crypto, for example, in which case your motivation will be money and self-fulfillment... Or searching for rare stories even!\nRead my channel if you like this topic... Or someone can even get into AD-INT which is growing day-by-day right now. For GEOINT skills training I suggest checking geoguessr.com & whereami.io.\nJust take a look at this awesome Mind-Map:\nExplore data terminals:\nYou may even want to de-anonymize telegram users (read this channel) or, conversely, join counter-OSINT bros. But in doing so, I urge you not to forget the key skills of information retrieval, information analytics, and information application...\nI'll highlight some basic advice for you - evaluate information according to different criteria, always know your \"base settings\" - it's good for the mental health, the things you find shouldn't ruin your foundations! Practice it, do it in your daily life, apply OSINT where it seems un-obvious like mentioned below:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A collection of several hundred online tools for OSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 375081980,
+            "language": "HTML",
+            "last_commit": "2026-05-12T12:42:04Z",
+            "owner": "cipher387",
+            "repo": "osint_stuff_tool_collection",
+            "stars": 8696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phantom Tide",
+          "description": "Cross-domain OSINT dashboard for maritime and airspace analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1188278606,
+            "language": null,
+            "last_commit": "2026-08-18T15:40:12Z",
+            "owner": "tg12",
+            "repo": "phantomtide",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Querytool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 293267104,
+            "language": "HTML",
+            "last_commit": "2026-08-14T04:49:32Z",
+            "owner": "oryon-osint",
+            "repo": "querytool",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatGPT-osint Tool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 631377551,
+            "language": "Python",
+            "last_commit": "2023-04-24T06:10:42Z",
+            "owner": "gigz",
+            "repo": "gpt-osint",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PainlessPeek Tool - GEOINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 631612000,
+            "language": "TypeScript",
+            "last_commit": "2026-03-24T22:00:53Z",
+            "owner": "adacable",
+            "repo": "painlessPeek",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Choosing a Pathway to Follow..."
+    },
+    {
+      "description": "Join communities, of course and chat, chat! Below I've only mentioned English-speaking communities but there are also local ones, do some research on your own. I’m 100% sure in you! You will succeed! Do you like to hang out with friends? If so, then try playing Dozor or Encounter (or any NightGame based on codebreaking or geolocation or Escapology or Lock-Picking) together!\nCheck out:\nOSINT-Games:\nCarefully study these resources and come back to them as you journey through the world of the hornets, don't forget the roots. This article does not answer questions, but rather raises some rhetorical questions to encourage you to think about something!\nSince this is an atypical guide, I think it's worthwhile to offer you a list of TV shows and movies that I think involve OSINT in one way or another:\nReferences:\nOpen Source Intelligence, commonly referred to as OSINT, is the collection, collation, and analysis of publicly available information. OSINT is a tradecraft developed in the national security sector that has now expanded through a range of sectors, including law enforcement, journalism, corporate security, academic research, and the legal sector. OSINT can also be used to support charitable causes!\nOSINT Bookshelf:\nZettelkasten Method:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Best Tool For Information Gathering 🔎",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121825520,
+            "language": "Perl",
+            "last_commit": "2025-04-21T08:23:07Z",
+            "owner": "Moham3dRiahi",
+            "repo": "Th3inspector",
+            "stars": 2658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Intelligence",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 584351443,
+            "language": null,
+            "last_commit": "2025-06-26T23:21:05Z",
+            "owner": "ARPSyndicate",
+            "repo": "awesome-intelligence",
+            "stars": 2400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Counter OSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 576570079,
+            "language": null,
+            "last_commit": "2026-01-18T09:47:57Z",
+            "owner": "CScorza",
+            "repo": "OSINTAnonymous",
+            "stars": 473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Comprehensive Counter OSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 544120174,
+            "language": null,
+            "last_commit": "2026-08-17T23:42:19Z",
+            "owner": "soxoj",
+            "repo": "counter-osint-guide-en",
+            "stars": 362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome OSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75189212,
+            "language": null,
+            "last_commit": "2026-08-18T00:32:33Z",
+            "owner": "jivoi",
+            "repo": "awesome-osint",
+            "stars": 28166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSINT Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 523153424,
+            "language": null,
+            "last_commit": "2024-01-02T13:25:32Z",
+            "owner": "caetano-dev",
+            "repo": "OSINT-guide",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Immersive & Gamified Learning: Games (b)"
+    },
+    {
+      "description": "I would see it as learning a foreign language. Okay, you have learned it and come to a country where it is spoken to live. But everyone there knows this language... So it's important to know something else in addition. Typically, it is necessary to have writing skills, interact well with people, or be a lawyer. With all said, different approaches require different skills and mind-sets!\nKeep in mind that OSINT is NOT a \"sort of a front-running/tailgating or scalping but in real life\"!\nWork:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "On-Chain Investigations Tools List",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 568727854,
+            "language": null,
+            "last_commit": "2026-06-03T14:21:13Z",
+            "owner": "OffcierCia",
+            "repo": "On-Chain-Investigations-Tools-List",
+            "stars": 1924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AML/Crypto Investigations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 568727854,
+            "language": null,
+            "last_commit": "2026-06-03T14:21:13Z",
+            "owner": "OffcierCia",
+            "repo": "On-Chain-Investigations-Tools-List",
+            "stars": 1924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python for OSINT 21 days",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 619299823,
+            "language": "Python",
+            "last_commit": "2026-01-06T08:16:28Z",
+            "owner": "cipher387",
+            "repo": "python-for-OSINT-21-days",
+            "stars": 1118
+          }
+        }
+      ],
+      "title": "Work: A-Z"
+    },
+    {
+      "description": "More tools (random) to use in work:\nSpecific (to be updated):\nAccording to GoldenOwl: As the battle against disinformation intensifies, OSINT practitioners must be vigilant in protecting themselves from manipulation. By adopting a critical mindset, diversifying information sources, verifying social media information, utilizing fact-checking tools, staying updated on disinformation techniques, collaborating with trusted communities, educating others, maintaining ethical standards, and cross-checking information, OSINTers can fortify themselves against manipulation and uphold the integrity of their research.\nAwesome articles (external):\nAs practice shows, modern armed conflicts require new approaches to organizing the collection and analysis of open data, which we operate within the framework of OSINT. Be careful with it and think twice before acting.\nSome outstanding tools:\nRemember, Your task for this final step is to make a plan for maintaining and improving your OSINT skills. Choose some resources for continuous learning, find some challenges to participate in, and consider joining an OSINT community. Lastly, review your ethical guidelines to ensure you are always working responsibly and respectfully. - Ron Kaminsky\nIn-Depth (external):\nAccording to Alessandra Adina: The intelligence cycle represents the process of developing raw information into actionable intelligence. This process can enable decision-makers to take appropriate actions based on their findings. While different organisations use variations on different intelligence cycles, a popular one is a five-step cycle: Planning, Gathering, Analyzing, Dissemination, and Feedback.\nMore specific resources (external):\nAccording to Alessandra Adina: A term you may come across in the realm of OSINT is ‘grey literature.’ These are internal documents not intended for public use, but unfortunately, they can easily end up in places where they are searchable. Examples include technical reports, newsletters, invoices, business proposals, or requests for proposals.\nUnderstanding the value of your organisation’s information, potential attack vectors, and who might be targeted in phishing attacks or other types of social engineering is essential. OSINT can aid you in assessing these risks and planning appropriate defences.\nTelegram + Discord: Security, OSINT, SOCMINT:\nAccording to Ron Kaminsky: OSINT has revolutionized the world of investigations, empowering individuals and organizations to uncover valuable information, solve complex problems, and make informed decisions. The ability to harness the vast amount of data available in open sources has opened up new possibilities and transformed the investigative landscape. By utilizing OSINT tools effectively, investigators can save time, gather comprehensive information, and uncover connections that may have otherwise remained hidden. The techniques and methodologies explored in this guide provide a roadmap for conducting thorough and successful OSINT investigations.\nCheck out my articles:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dnstwist",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37259508,
+            "language": "Python",
+            "last_commit": "2025-04-15T18:41:47Z",
+            "owner": "elceef",
+            "repo": "dnstwist",
+            "stars": 5728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Social Media OSINT Tools Collection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 643174512,
+            "language": null,
+            "last_commit": "2026-01-30T14:43:22Z",
+            "owner": "osintambition",
+            "repo": "Social-Media-OSINT-Tools-Collection",
+            "stars": 1946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSINT for Countries",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 681072116,
+            "language": null,
+            "last_commit": "2026-06-29T08:04:50Z",
+            "owner": "wddadk",
+            "repo": "OSINT-for-countries",
+            "stars": 886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSINT-Browser-Extensions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 636812748,
+            "language": null,
+            "last_commit": "2026-05-04T07:02:50Z",
+            "owner": "The-Osint-Toolbox",
+            "repo": "OSINT-Browser-Extensions",
+            "stars": 419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GVision",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 621063782,
+            "language": "Python",
+            "last_commit": "2024-12-08T21:03:15Z",
+            "owner": "GONZOsint",
+            "repo": "gvision",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spiderfoot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4165675,
+            "language": "Python",
+            "last_commit": "2026-04-13T19:43:06Z",
+            "owner": "smicallef",
+            "repo": "spiderfoot",
+            "stars": 21192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inpaint-Anything",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625478728,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-29T02:15:51Z",
+            "owner": "geekyutao",
+            "repo": "Inpaint-Anything",
+            "stars": 7693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Digital Forensics Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 393489989,
+            "language": "Python",
+            "last_commit": "2024-01-04T22:41:58Z",
+            "owner": "mikeroyal",
+            "repo": "Digital-Forensics-Guide",
+            "stars": 3091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osint-Brazil",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 373337534,
+            "language": "Python",
+            "last_commit": "2026-08-09T03:52:55Z",
+            "owner": "osintbrazuca",
+            "repo": "osint-brazuca",
+            "stars": 2661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSINT open-source tools catalogue",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 285005809,
+            "language": null,
+            "last_commit": "2023-05-10T23:04:13Z",
+            "owner": "HowToFind-bot",
+            "repo": "osint-tools",
+            "stars": 1317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome OSINT Web3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 575629932,
+            "language": null,
+            "last_commit": "2025-03-25T15:14:47Z",
+            "owner": "aaarghhh",
+            "repo": "awesome_osint_blockchain_analysis",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maltego Transforms List",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 454585714,
+            "language": null,
+            "last_commit": "2024-11-09T11:54:38Z",
+            "owner": "cipher387",
+            "repo": "maltego-transforms-list",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Journalism Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 170550233,
+            "language": null,
+            "last_commit": "2019-06-18T15:31:02Z",
+            "owner": "r3mlab",
+            "repo": "datajournalism-resources",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Template for new OSINT command-line tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 434895658,
+            "language": "Python",
+            "last_commit": "2026-08-18T19:36:57Z",
+            "owner": "soxoj",
+            "repo": "osint-cli-tool-skeleton",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bellingcat hackathon - stratosphere Project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624120817,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-31T20:25:40Z",
+            "owner": "elehcimd",
+            "repo": "stratosphere",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome OSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75189212,
+            "language": null,
+            "last_commit": "2026-08-18T00:32:33Z",
+            "owner": "jivoi",
+            "repo": "awesome-osint",
+            "stars": 28166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Telegram OSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 367888205,
+            "language": null,
+            "last_commit": "2024-08-03T12:45:01Z",
+            "owner": "ItIsMeCall911",
+            "repo": "Awesome-Telegram-OSINT",
+            "stars": 2832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A next-generation crawling and spidering framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 326228917,
+            "language": "Go",
+            "last_commit": "2026-08-17T12:24:10Z",
+            "owner": "projectdiscovery",
+            "repo": "katana",
+            "stars": 17331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-chatgpt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 635258975,
+            "language": null,
+            "last_commit": "2026-02-15T18:05:30Z",
+            "owner": "sindresorhus",
+            "repo": "awesome-chatgpt",
+            "stars": 6376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Deblurring",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 197458822,
+            "language": null,
+            "last_commit": "2025-06-29T07:34:16Z",
+            "owner": "subeeshvasu",
+            "repo": "Awesome-Deblurring",
+            "stars": 2912
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "E4GL30S1NT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 393635960,
+            "language": "Python",
+            "last_commit": "2026-07-05T10:20:50Z",
+            "owner": "C0MPL3XDEV",
+            "repo": "E4GL30S1NT",
+            "stars": 696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A collection of several hundred online tools for OSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 375081980,
+            "language": "HTML",
+            "last_commit": "2026-05-12T12:42:04Z",
+            "owner": "cipher387",
+            "repo": "osint_stuff_tool_collection",
+            "stars": 8696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OrienterNet Visual Localization in 2D Public Maps with Neural Matching",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 603101439,
+            "language": "Python",
+            "last_commit": "2026-08-04T06:19:40Z",
+            "owner": "facebookresearch",
+            "repo": "OrienterNet",
+            "stars": 577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geolocation-OSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 621423000,
+            "language": null,
+            "last_commit": "2026-05-24T06:52:19Z",
+            "owner": "The-Osint-Toolbox",
+            "repo": "Geolocation-OSINT",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSINT-TOOLS-CLI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 440879731,
+            "language": "Rust",
+            "last_commit": "2025-10-12T03:23:04Z",
+            "owner": "Coordinate-Cat",
+            "repo": "osint-tools-cli",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GraphSense Maltego Transform",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 344845081,
+            "language": "Python",
+            "last_commit": "2024-12-28T15:03:28Z",
+            "owner": "INTERPOL-Innovation-Centre",
+            "repo": "GraphSense-Maltego-transform",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Telegram OSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 367888205,
+            "language": null,
+            "last_commit": "2024-08-03T12:45:01Z",
+            "owner": "ItIsMeCall911",
+            "repo": "Awesome-Telegram-OSINT",
+            "stars": 2832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telegram OSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 628365735,
+            "language": null,
+            "last_commit": "2026-05-17T09:49:09Z",
+            "owner": "The-Osint-Toolbox",
+            "repo": "Telegram-OSINT",
+            "stars": 1949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiscordOSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 377417790,
+            "language": null,
+            "last_commit": "2024-08-08T15:18:06Z",
+            "owner": "husseinmuhaisen",
+            "repo": "DiscordOSINT",
+            "stars": 587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Discord",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 108609874,
+            "language": null,
+            "last_commit": "2026-05-11T15:03:26Z",
+            "owner": "jacc",
+            "repo": "awesome-discord",
+            "stars": 532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TelegramOnlineSpy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 220019475,
+            "language": "Python",
+            "last_commit": "2024-08-10T08:32:42Z",
+            "owner": "Forichok",
+            "repo": "TelegramOnlineSpy",
+            "stars": 522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSINT Discord resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 327330285,
+            "language": null,
+            "last_commit": "2024-03-17T12:46:41Z",
+            "owner": "Dutchosintguy",
+            "repo": "OSINT-Discord-resources",
+            "stars": 369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discord & Telegram OSINT references",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 534001226,
+            "language": null,
+            "last_commit": "2024-08-10T06:11:11Z",
+            "owner": "Ginsberg5150",
+            "repo": "Discord-and-Telegram-OSINT-references",
+            "stars": 194
+          }
+        }
+      ],
+      "title": "External Data"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:56:39.208Z",
+    "last_updated": "2026-08-19T12:41:49.114Z",
     "original_repository": "OffcierCia/non-typical-OSINT-guide",
+    "original_repository_id": 618411219,
     "original_repository_sha": "57fa77d38e92a844ab12b85117d2d34162b32b1b",
     "enhanced_repository": "enhansome/enhansome-non-typical-OSINT-guide",
     "enhanced_repository_description": null,
