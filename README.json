@@ -45,7 +45,7 @@
             "last_commit": "2025-08-14T14:29:48Z",
             "owner": "Ekultek",
             "repo": "WhatBreach",
-            "stars": 1652
+            "stars": 1655
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2024-07-02T03:39:39Z",
             "owner": "joe-shenouda",
             "repo": "awesome-cyber-skills",
-            "stars": 4627
+            "stars": 4629
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-11T06:56:42Z",
             "owner": "simsieg",
             "repo": "awesome-maps",
-            "stars": 501
+            "stars": 503
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-07-12T10:51:45Z",
             "owner": "The-Osint-Toolbox",
             "repo": "Social-Media-OSINT",
-            "stars": 981
+            "stars": 980
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-05-24T06:52:19Z",
             "owner": "The-Osint-Toolbox",
             "repo": "Geolocation-OSINT",
-            "stars": 343
+            "stars": 342
           }
         },
         {
@@ -249,10 +249,10 @@
             "archived": false,
             "id": 162998479,
             "language": "Python",
-            "last_commit": "2026-08-20T05:35:33Z",
+            "last_commit": "2026-08-21T05:36:54Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 89884
+            "stars": 89933
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2025-06-23T12:16:37Z",
             "owner": "LiLittleCat",
             "repo": "awesome-free-chatgpt",
-            "stars": 21227
+            "stars": 21229
           }
         },
         {
@@ -327,7 +327,7 @@
             "last_commit": "2026-03-19T14:17:16Z",
             "owner": "Bafomet666",
             "repo": "OSINT-SAN",
-            "stars": 614
+            "stars": 615
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2026-05-12T12:42:04Z",
             "owner": "cipher387",
             "repo": "osint_stuff_tool_collection",
-            "stars": 8704
+            "stars": 8709
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2026-08-17T23:42:19Z",
             "owner": "soxoj",
             "repo": "counter-osint-guide-en",
-            "stars": 362
+            "stars": 363
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2026-08-20T14:43:10Z",
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28204
+            "stars": 28228
           }
         },
         {
@@ -666,7 +666,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21247
+            "stars": 21315
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2026-07-29T02:15:51Z",
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7696
+            "stars": 7697
           }
         },
         {
@@ -696,7 +696,7 @@
             "last_commit": "2024-01-04T22:41:58Z",
             "owner": "mikeroyal",
             "repo": "Digital-Forensics-Guide",
-            "stars": 3092
+            "stars": 3094
           }
         },
         {
@@ -711,7 +711,7 @@
             "last_commit": "2026-08-09T03:52:55Z",
             "owner": "osintbrazuca",
             "repo": "osint-brazuca",
-            "stars": 2667
+            "stars": 2670
           }
         },
         {
@@ -726,7 +726,7 @@
             "last_commit": "2023-05-10T23:04:13Z",
             "owner": "HowToFind-bot",
             "repo": "osint-tools",
-            "stars": 1317
+            "stars": 1318
           }
         },
         {
@@ -816,7 +816,7 @@
             "last_commit": "2026-08-20T14:43:10Z",
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28204
+            "stars": 28228
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2024-08-03T12:45:01Z",
             "owner": "ItIsMeCall911",
             "repo": "Awesome-Telegram-OSINT",
-            "stars": 2835
+            "stars": 2836
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2026-08-17T12:24:10Z",
             "owner": "projectdiscovery",
             "repo": "katana",
-            "stars": 17334
+            "stars": 17339
           }
         },
         {
@@ -861,7 +861,7 @@
             "last_commit": "2026-02-15T18:05:30Z",
             "owner": "sindresorhus",
             "repo": "awesome-chatgpt",
-            "stars": 6379
+            "stars": 6381
           }
         },
         {
@@ -906,7 +906,7 @@
             "last_commit": "2026-05-12T12:42:04Z",
             "owner": "cipher387",
             "repo": "osint_stuff_tool_collection",
-            "stars": 8704
+            "stars": 8709
           }
         },
         {
@@ -936,7 +936,7 @@
             "last_commit": "2026-05-24T06:52:19Z",
             "owner": "The-Osint-Toolbox",
             "repo": "Geolocation-OSINT",
-            "stars": 343
+            "stars": 342
           }
         },
         {
@@ -981,7 +981,7 @@
             "last_commit": "2024-08-03T12:45:01Z",
             "owner": "ItIsMeCall911",
             "repo": "Awesome-Telegram-OSINT",
-            "stars": 2835
+            "stars": 2836
           }
         },
         {
@@ -996,7 +996,7 @@
             "last_commit": "2026-05-17T09:49:09Z",
             "owner": "The-Osint-Toolbox",
             "repo": "Telegram-OSINT",
-            "stars": 1950
+            "stars": 1951
           }
         },
         {
@@ -1079,7 +1079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T18:59:17.624Z",
+    "last_updated": "2026-08-21T18:56:19.687Z",
     "original_repository": "OffcierCia/non-typical-OSINT-guide",
     "original_repository_id": 618411219,
     "original_repository_sha": "57fa77d38e92a844ab12b85117d2d34162b32b1b",
