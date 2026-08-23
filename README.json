@@ -45,7 +45,7 @@
             "last_commit": "2025-08-14T14:29:48Z",
             "owner": "Ekultek",
             "repo": "WhatBreach",
-            "stars": 1655
+            "stars": 1656
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2024-07-02T03:39:39Z",
             "owner": "joe-shenouda",
             "repo": "awesome-cyber-skills",
-            "stars": 4631
+            "stars": 4633
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-07-12T10:51:45Z",
             "owner": "The-Osint-Toolbox",
             "repo": "Social-Media-OSINT",
-            "stars": 981
+            "stars": 982
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-07-12T10:36:32Z",
             "owner": "The-Osint-Toolbox",
             "repo": "Image-Research-OSINT",
-            "stars": 528
+            "stars": 529
           }
         },
         {
@@ -249,10 +249,10 @@
             "archived": false,
             "id": 162998479,
             "language": "Python",
-            "last_commit": "2026-08-22T05:11:58Z",
+            "last_commit": "2026-08-23T05:13:14Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 89971
+            "stars": 90064
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2025-06-23T12:16:37Z",
             "owner": "LiLittleCat",
             "repo": "awesome-free-chatgpt",
-            "stars": 21229
+            "stars": 21233
           }
         },
         {
@@ -327,7 +327,7 @@
             "last_commit": "2026-03-19T14:17:16Z",
             "owner": "Bafomet666",
             "repo": "OSINT-SAN",
-            "stars": 616
+            "stars": 617
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2026-05-12T12:42:04Z",
             "owner": "cipher387",
             "repo": "osint_stuff_tool_collection",
-            "stars": 8713
+            "stars": 8721
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2026-08-22T17:50:41Z",
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28248
+            "stars": 28267
           }
         },
         {
@@ -606,7 +606,7 @@
             "last_commit": "2026-01-30T14:43:22Z",
             "owner": "osintambition",
             "repo": "Social-Media-OSINT-Tools-Collection",
-            "stars": 1945
+            "stars": 1946
           }
         },
         {
@@ -666,7 +666,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21352
+            "stars": 21366
           }
         },
         {
@@ -696,7 +696,7 @@
             "last_commit": "2024-01-04T22:41:58Z",
             "owner": "mikeroyal",
             "repo": "Digital-Forensics-Guide",
-            "stars": 3094
+            "stars": 3097
           }
         },
         {
@@ -711,7 +711,7 @@
             "last_commit": "2026-08-09T03:52:55Z",
             "owner": "osintbrazuca",
             "repo": "osint-brazuca",
-            "stars": 2670
+            "stars": 2673
           }
         },
         {
@@ -816,7 +816,7 @@
             "last_commit": "2026-08-22T17:50:41Z",
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28248
+            "stars": 28267
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2024-08-03T12:45:01Z",
             "owner": "ItIsMeCall911",
             "repo": "Awesome-Telegram-OSINT",
-            "stars": 2838
+            "stars": 2842
           }
         },
         {
@@ -861,7 +861,7 @@
             "last_commit": "2026-02-15T18:05:30Z",
             "owner": "sindresorhus",
             "repo": "awesome-chatgpt",
-            "stars": 6384
+            "stars": 6386
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2025-06-29T07:34:16Z",
             "owner": "subeeshvasu",
             "repo": "Awesome-Deblurring",
-            "stars": 2912
+            "stars": 2913
           }
         },
         {
@@ -906,7 +906,7 @@
             "last_commit": "2026-05-12T12:42:04Z",
             "owner": "cipher387",
             "repo": "osint_stuff_tool_collection",
-            "stars": 8713
+            "stars": 8721
           }
         },
         {
@@ -981,7 +981,7 @@
             "last_commit": "2024-08-03T12:45:01Z",
             "owner": "ItIsMeCall911",
             "repo": "Awesome-Telegram-OSINT",
-            "stars": 2838
+            "stars": 2842
           }
         },
         {
@@ -996,7 +996,7 @@
             "last_commit": "2026-05-17T09:49:09Z",
             "owner": "The-Osint-Toolbox",
             "repo": "Telegram-OSINT",
-            "stars": 1953
+            "stars": 1957
           }
         },
         {
@@ -1079,7 +1079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T18:48:50.189Z",
+    "last_updated": "2026-08-23T18:48:16.058Z",
     "original_repository": "OffcierCia/non-typical-OSINT-guide",
     "original_repository_id": 618411219,
     "original_repository_sha": "57fa77d38e92a844ab12b85117d2d34162b32b1b",
