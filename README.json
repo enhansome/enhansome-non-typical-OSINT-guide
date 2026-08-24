@@ -1,7 +1,184 @@
 {
   "items": [
     {
+      "description": "Disclaimer: All information (tools, links, articles, text, images, etc.) is provided for educational purposes only! All information is also based on data from public sources. You are solely responsible for your actions, not the author ❗️",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Introduction: Civil OSINT",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 618411219,
+            "language": null,
+            "last_commit": "2026-07-15T13:27:43Z",
+            "owner": "OffcierCia",
+            "repo": "non-typical-OSINT-guide",
+            "stars": 1567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Immersive & Gamified Learning: Tricks (a)",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 618411219,
+            "language": null,
+            "last_commit": "2026-07-15T13:27:43Z",
+            "owner": "OffcierCia",
+            "repo": "non-typical-OSINT-guide",
+            "stars": 1567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Training & Practicing",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 618411219,
+            "language": null,
+            "last_commit": "2026-07-15T13:27:43Z",
+            "owner": "OffcierCia",
+            "repo": "non-typical-OSINT-guide",
+            "stars": 1567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Choosing a Pathway to Follow...",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 618411219,
+            "language": null,
+            "last_commit": "2026-07-15T13:27:43Z",
+            "owner": "OffcierCia",
+            "repo": "non-typical-OSINT-guide",
+            "stars": 1567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Immersive & Gamified Learning: Games (b)",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 618411219,
+            "language": null,
+            "last_commit": "2026-07-15T13:27:43Z",
+            "owner": "OffcierCia",
+            "repo": "non-typical-OSINT-guide",
+            "stars": 1567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Work (A-Z)",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 618411219,
+            "language": null,
+            "last_commit": "2026-07-15T13:27:43Z",
+            "owner": "OffcierCia",
+            "repo": "non-typical-OSINT-guide",
+            "stars": 1567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "External Data",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 618411219,
+            "language": null,
+            "last_commit": "2026-07-15T13:27:43Z",
+            "owner": "OffcierCia",
+            "repo": "non-typical-OSINT-guide",
+            "stars": 1567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Support Project",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 618411219,
+            "language": null,
+            "last_commit": "2026-07-15T13:27:43Z",
+            "owner": "OffcierCia",
+            "repo": "non-typical-OSINT-guide",
+            "stars": 1567
+          }
+        }
+      ],
+      "title": "PRs are welcome! Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add."
+    },
+    {
       "description": "To begin with, I want to say that I will consider OSINT as a set of skills or a mindset, because it can be directly related to doxing, military GEO-INT performed by a security company employee or just media OSINT performed by a VC fund employee in order to find new projects for investment, taking the theory of handshakes as a basis...\n...Or even a crypto-forensics specialist investigating a major Web3.0 hack case. In other words, it can be used in all spheres of life because it is only a method of working with, assessing and ranking information - do not ever forget that we are all living in the Information Era.\nAll of what I said above you can develop in yourself, but the essence of all directions is the same - the ability to notice valuable information, anomalies, see the differences, carefully analyze the facts and build a logical chain - while being in the flow of information. Start up from checking out your own info and your own data: make an OSINT research against yourself. Collect all data, visualize it, then, erase - with using SERM/ORM techniques.\nI would like to give you the first lesson, all resources which I will advise you - I studied by myself earlier:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WhatBreach",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 182323091,
+            "language": "Python",
+            "last_commit": "2025-08-14T14:29:48Z",
+            "owner": "Ekultek",
+            "repo": "WhatBreach",
+            "stars": 1658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "More OpSec Studies",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71270796,
+            "language": null,
+            "last_commit": "2016-11-15T19:49:03Z",
+            "owner": "lawsecnet",
+            "repo": "OPSEC",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A definitive guide to generating usernames for OSINT purposes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 435269115,
+            "language": "Python",
+            "last_commit": "2024-06-08T17:12:44Z",
+            "owner": "soxoj",
+            "repo": "username-generation-guide",
+            "stars": 178
+          }
+        }
+      ],
+      "title": "Introduction: Civil OSINT"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -32,39 +209,9 @@
             "repo": "On-Chain-Investigations-Tools-List",
             "stars": 1927
           }
-        },
-        {
-          "node_type": "item",
-          "title": "WhatBreach",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 182323091,
-            "language": "Python",
-            "last_commit": "2025-08-14T14:29:48Z",
-            "owner": "Ekultek",
-            "repo": "WhatBreach",
-            "stars": 1656
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "More OpSec Studies",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 71270796,
-            "language": null,
-            "last_commit": "2016-11-15T19:49:03Z",
-            "owner": "lawsecnet",
-            "repo": "OPSEC",
-            "stars": 24
-          }
         }
       ],
-      "title": "Introduction: Civil OSINT"
+      "title": "Expand"
     },
     {
       "description": "I can also recommend that you turn to an interesting subculture that is suitable for introverts! I am sure that everyone is interested in various strange phenomena in one way or another. Immerse yourself in a net-stalking environment!\nSometimes ordinary people were able to solve crimes which the police could not solve for years with OSINT and GEOINT alone (I could put in here links to subreddits, movies and news but since you and I are now doing OSINT I advise you to find it on your own).\nAlso check out:\nThe main thing to remember is your health, it is above all, do not let your principles be shaken by what you see. You are an observer! Here well helps to understand the psychology of SCP researchers (when nothing is clear, but the scientific method helps to put everything in its place).\nKeep in mind that in this part of the Global Internet (I mean OSINT in general, not only the Net-stalking), the percentage of people who are actively looking for problems or need to express their emotions is no different from other places!\nScience + OSINT:\nPractising:\nSo, follow OpSec rules and don't make too many mistakes. Conduct your activities from a separate, isolated device.\nCognitive bias mitigation & decision-making when doing OSINT:\nThere are no perfect practitioners-analysts, everyone makes mistakes and gets into difficult ambiguous situations (at least once in their life), all the more in conditions of acutely intensive and chronic work overload. And it is absolutely necessary for a practitioner-analyst to know and understand such situations.\nCognitive vulnerabilities (in the established understanding) are exposures and/or tendencies to defects in thinking: significant cognitive distortions, erroneous beliefs, cognitive biases (biases), or stereotyped patterns of thinking that create the basis for a person's predisposition to cognitive failures and lead to distortions and dysfunctions of thought processes.\nMost of us experience 'gut feelings' we can't explain, such as instantly loving (or hating) a new property when we're househunting or the snap judgments we make on meeting new people. Now researchers say these feelings (or intuitions) - are real and we should take our hunches seriously.\nDon't limit yourself to one approach; don't be afraid to try experiments, but keep in mind that the outcomes of such approaches should always be double-checked. They serve more as learning tools than as actual advice for investigators. Visit the following websites:\nAlso:\nAccording to wondersmith_rae: In classical rhetoric, the “elements of circumstance” created by Aristotle have been used to analyze rhetorical questions for ages. They also apply to modern-day analysis and can be used as a foundation for an investigation. (Who, what, when, where, why, in what way, by what means)\nA condensed yet equally valuable version of the elements is called the “5W’s and an H” or Who, What, When, Where, Why, and How. These questions have been used in rhetoric, religious study, police investigations, journalism, and by lawyers since ancient Greece. It is said that an investigation can not be truly complete until all of the Ws and the H can be answered.\nApplying the same elements to our OSINT investigations we can ask and answer similar questions. By answering the 5W’s a narrative begins to emerge from our collected data. It is now up to us as analysts to connect the dots in a succinct way. The catch is, that anyone who has done research knows that when information starts to be uncovered it is easy to get stuck in a rabbit hole.\nOnce you can distinguish the information, sort it out then the next thing you can do is start practicing. As you know, good practice requires good motivation! You only need to know one thing: people think that intelligence is fixed — but it isn’t. Your brain is like a muscle; the more you use it, the more it grows. Education is no longer a one-time event, but a lifelong experience.\nAlso check out:\nRecent surveys show that over 97% of businesses store data in the Cloud. Learn how to identify potential sources of Cloud data, issue discovery requests, and implement litigation holds, as well as how to preserve, collect, filter, review, and produce Cloud data.\nInformation relevant to your case is on the Internet, usually hiding in plain sight. Business records, domain name registrations, websites, online user identities, social media posts, photos, and videos are only a search query away. Do you know how to find it? Learn how open source information can impact a broad range of matters and how to effectively identify sources of information and search for open source data.",
@@ -103,6 +250,27 @@
       "title": "Immersive & Gamified Learning: Tricks (a)"
     },
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpSec researches and data terminals - contributions are welcome.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 379360003,
+            "language": null,
+            "last_commit": "2026-08-16T23:20:41Z",
+            "owner": "OffcierCia",
+            "repo": "Crypto-OpSec-SelfGuard-RoadMap",
+            "stars": 1860
+          }
+        }
+      ],
+      "title": "Expand"
+    },
+    {
       "description": "Good training materials:\nHere is a very good brain-stretching game will help to train associative thinking - a very important skill for anyone in OSINT:\nWhen I was young we played «5 steps till Ragnarok» - the goal was to find the page about this myth in 5 steps (5 clicks) from any random Wikipedia page! 🙂\nFollow top OSINT specialists:\nMore Resources:\nIn addition to its traditional function of enabling less miscalculated decisions, the audience of modern intelligence is growing beyond state or corporation leadership, and is expanding to the public. It is no longer a mere warning mechanism, but also a know-how reservoir and improvisation pool to resolve matters in times of unexpected crises.\nTools (AI, ChatGPT, ML, Others):\nIn recent years, public interest in open-source intelligence gathering and analysis has increased exponentially. As this interest has grown, more and more OSINT investigations have been relying on tools and automation, leaving the analysis process behind. You should consider OSINT a thought process. The \"OSINT state of mind\" is key for keeping track of your investigative steps, picking the right tools and sources, analyzing the data, and reporting to generate actionable intelligence!",
       "items": [
         {
@@ -117,7 +285,7 @@
             "last_commit": "2024-07-02T03:39:39Z",
             "owner": "joe-shenouda",
             "repo": "awesome-cyber-skills",
-            "stars": 4633
+            "stars": 4634
           }
         },
         {
@@ -132,7 +300,7 @@
             "last_commit": "2026-01-06T08:16:28Z",
             "owner": "cipher387",
             "repo": "python-for-OSINT-21-days",
-            "stars": 1118
+            "stars": 1119
           }
         },
         {
@@ -249,10 +417,10 @@
             "archived": false,
             "id": 162998479,
             "language": "Python",
-            "last_commit": "2026-08-23T05:13:14Z",
+            "last_commit": "2026-08-24T05:19:36Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 90064
+            "stars": 90155
           }
         },
         {
@@ -267,7 +435,7 @@
             "last_commit": "2025-06-23T12:16:37Z",
             "owner": "LiLittleCat",
             "repo": "awesome-free-chatgpt",
-            "stars": 21233
+            "stars": 21231
           }
         },
         {
@@ -282,7 +450,7 @@
             "last_commit": "2026-08-01T11:57:14Z",
             "owner": "jiep",
             "repo": "offensive-ai-compilation",
-            "stars": 1418
+            "stars": 1420
           }
         },
         {
@@ -297,7 +465,7 @@
             "last_commit": "2026-08-01T11:57:14Z",
             "owner": "jiep",
             "repo": "offensive-ai-compilation",
-            "stars": 1418
+            "stars": 1420
           }
         },
         {
@@ -363,7 +531,7 @@
             "last_commit": "2026-05-12T12:42:04Z",
             "owner": "cipher387",
             "repo": "osint_stuff_tool_collection",
-            "stars": 8721
+            "stars": 8723
           }
         },
         {
@@ -430,6 +598,27 @@
       "title": "Choosing a Pathway to Follow..."
     },
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Counter OSINT Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 544120174,
+            "language": null,
+            "last_commit": "2026-08-17T23:42:19Z",
+            "owner": "soxoj",
+            "repo": "counter-osint-guide-en",
+            "stars": 363
+          }
+        }
+      ],
+      "title": "Expand"
+    },
+    {
       "description": "Join communities, of course and chat, chat! Below I've only mentioned English-speaking communities but there are also local ones, do some research on your own. I’m 100% sure in you! You will succeed! Do you like to hang out with friends? If so, then try playing Dozor or Encounter (or any NightGame based on codebreaking or geolocation or Escapology or Lock-Picking) together!\nCheck out:\nOSINT-Games:\nCarefully study these resources and come back to them as you journey through the world of the hornets, don't forget the roots. This article does not answer questions, but rather raises some rhetorical questions to encourage you to think about something!\nSince this is an atypical guide, I think it's worthwhile to offer you a list of TV shows and movies that I think involve OSINT in one way or another:\nReferences:\nOpen Source Intelligence, commonly referred to as OSINT, is the collection, collation, and analysis of publicly available information. OSINT is a tradecraft developed in the national security sector that has now expanded through a range of sectors, including law enforcement, journalism, corporate security, academic research, and the legal sector. OSINT can also be used to support charitable causes!\nOSINT Bookshelf:\nZettelkasten Method:",
       "items": [
         {
@@ -444,7 +633,7 @@
             "last_commit": "2025-04-21T08:23:07Z",
             "owner": "Moham3dRiahi",
             "repo": "Th3inspector",
-            "stars": 2659
+            "stars": 2661
           }
         },
         {
@@ -462,6 +651,57 @@
             "stars": 2403
           }
         },
+        {
+          "node_type": "item",
+          "title": "Offensive OSINT Tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 561189082,
+            "language": null,
+            "last_commit": "2026-07-30T08:46:44Z",
+            "owner": "wddadk",
+            "repo": "Offensive-OSINT-Tools",
+            "stars": 1258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome OSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75189212,
+            "language": null,
+            "last_commit": "2026-08-22T17:50:41Z",
+            "owner": "jivoi",
+            "repo": "awesome-osint",
+            "stars": 28281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSINT Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 523153424,
+            "language": null,
+            "last_commit": "2024-01-02T13:25:32Z",
+            "owner": "caetano-dev",
+            "repo": "OSINT-guide",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Immersive & Gamified Learning: Games (b)"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "Counter OSINT",
@@ -491,39 +731,9 @@
             "repo": "counter-osint-guide-en",
             "stars": 363
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome OSINT",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 75189212,
-            "language": null,
-            "last_commit": "2026-08-22T17:50:41Z",
-            "owner": "jivoi",
-            "repo": "awesome-osint",
-            "stars": 28267
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OSINT Guide",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 523153424,
-            "language": null,
-            "last_commit": "2024-01-02T13:25:32Z",
-            "owner": "caetano-dev",
-            "repo": "OSINT-guide",
-            "stars": 15
-          }
         }
       ],
-      "title": "Immersive & Gamified Learning: Games (b)"
+      "title": "Expand"
     },
     {
       "description": "I would see it as learning a foreign language. Okay, you have learned it and come to a country where it is spoken to live. But everyone there knows this language... So it's important to know something else in addition. Typically, it is necessary to have writing skills, interact well with people, or be a lawyer. With all said, different approaches require different skills and mind-sets!\nKeep in mind that OSINT is NOT a \"sort of a front-running/tailgating or scalping but in real life\"!\nWork:",
@@ -570,7 +780,7 @@
             "last_commit": "2026-01-06T08:16:28Z",
             "owner": "cipher387",
             "repo": "python-for-OSINT-21-days",
-            "stars": 1118
+            "stars": 1119
           }
         }
       ],
@@ -606,7 +816,7 @@
             "last_commit": "2026-01-30T14:43:22Z",
             "owner": "osintambition",
             "repo": "Social-Media-OSINT-Tools-Collection",
-            "stars": 1946
+            "stars": 1947
           }
         },
         {
@@ -666,7 +876,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21366
+            "stars": 21389
           }
         },
         {
@@ -681,7 +891,7 @@
             "last_commit": "2026-08-22T04:47:40Z",
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7698
+            "stars": 7699
           }
         },
         {
@@ -696,7 +906,7 @@
             "last_commit": "2024-01-04T22:41:58Z",
             "owner": "mikeroyal",
             "repo": "Digital-Forensics-Guide",
-            "stars": 3097
+            "stars": 3101
           }
         },
         {
@@ -708,7 +918,7 @@
             "archived": false,
             "id": 373337534,
             "language": "Python",
-            "last_commit": "2026-08-09T03:52:55Z",
+            "last_commit": "2026-08-24T05:10:36Z",
             "owner": "osintbrazuca",
             "repo": "osint-brazuca",
             "stars": 2673
@@ -726,7 +936,7 @@
             "last_commit": "2023-05-10T23:04:13Z",
             "owner": "HowToFind-bot",
             "repo": "osint-tools",
-            "stars": 1318
+            "stars": 1319
           }
         },
         {
@@ -816,7 +1026,7 @@
             "last_commit": "2026-08-22T17:50:41Z",
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28267
+            "stars": 28281
           }
         },
         {
@@ -831,7 +1041,7 @@
             "last_commit": "2024-08-03T12:45:01Z",
             "owner": "ItIsMeCall911",
             "repo": "Awesome-Telegram-OSINT",
-            "stars": 2842
+            "stars": 2843
           }
         },
         {
@@ -843,10 +1053,10 @@
             "archived": false,
             "id": 326228917,
             "language": "Go",
-            "last_commit": "2026-08-17T12:24:10Z",
+            "last_commit": "2026-08-24T12:23:53Z",
             "owner": "projectdiscovery",
             "repo": "katana",
-            "stars": 17341
+            "stars": 17342
           }
         },
         {
@@ -896,6 +1106,21 @@
         },
         {
           "node_type": "item",
+          "title": "List of OSINT Web Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 421191660,
+            "language": "HTML",
+            "last_commit": "2024-08-01T23:54:57Z",
+            "owner": "OhShINT",
+            "repo": "ohshint.gitbook.io",
+            "stars": 963
+          }
+        },
+        {
+          "node_type": "item",
           "title": "A collection of several hundred online tools for OSINT",
           "description": null,
           "children": [],
@@ -906,7 +1131,7 @@
             "last_commit": "2026-05-12T12:42:04Z",
             "owner": "cipher387",
             "repo": "osint_stuff_tool_collection",
-            "stars": 8721
+            "stars": 8723
           }
         },
         {
@@ -981,7 +1206,7 @@
             "last_commit": "2024-08-03T12:45:01Z",
             "owner": "ItIsMeCall911",
             "repo": "Awesome-Telegram-OSINT",
-            "stars": 2842
+            "stars": 2843
           }
         },
         {
@@ -996,7 +1221,7 @@
             "last_commit": "2026-05-17T09:49:09Z",
             "owner": "The-Osint-Toolbox",
             "repo": "Telegram-OSINT",
-            "stars": 1957
+            "stars": 1959
           }
         },
         {
@@ -1079,7 +1304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:48:16.058Z",
+    "last_updated": "2026-08-24T14:09:14.092Z",
     "original_repository": "OffcierCia/non-typical-OSINT-guide",
     "original_repository_id": 618411219,
     "original_repository_sha": "57fa77d38e92a844ab12b85117d2d34162b32b1b",
