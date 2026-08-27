@@ -141,7 +141,7 @@
             "last_commit": "2025-08-14T14:29:48Z",
             "owner": "Ekultek",
             "repo": "WhatBreach",
-            "stars": 1662
+            "stars": 1665
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2026-08-11T06:56:42Z",
             "owner": "simsieg",
             "repo": "awesome-maps",
-            "stars": 504
+            "stars": 505
           }
         },
         {
@@ -417,10 +417,10 @@
             "archived": false,
             "id": 162998479,
             "language": "Python",
-            "last_commit": "2026-08-26T05:15:36Z",
+            "last_commit": "2026-08-27T07:40:20Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 90360
+            "stars": 90386
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2025-06-23T12:16:37Z",
             "owner": "LiLittleCat",
             "repo": "awesome-free-chatgpt",
-            "stars": 21230
+            "stars": 21228
           }
         },
         {
@@ -495,7 +495,7 @@
             "last_commit": "2026-03-19T14:17:16Z",
             "owner": "Bafomet666",
             "repo": "OSINT-SAN",
-            "stars": 615
+            "stars": 617
           }
         },
         {
@@ -531,7 +531,7 @@
             "last_commit": "2026-05-12T12:42:04Z",
             "owner": "cipher387",
             "repo": "osint_stuff_tool_collection",
-            "stars": 8737
+            "stars": 8738
           }
         },
         {
@@ -633,7 +633,7 @@
             "last_commit": "2025-04-21T08:23:07Z",
             "owner": "Moham3dRiahi",
             "repo": "Th3inspector",
-            "stars": 2662
+            "stars": 2663
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2026-07-30T08:46:44Z",
             "owner": "wddadk",
             "repo": "Offensive-OSINT-Tools",
-            "stars": 1261
+            "stars": 1262
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2026-08-25T21:17:45Z",
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28343
+            "stars": 28411
           }
         },
         {
@@ -801,7 +801,7 @@
             "last_commit": "2025-04-15T18:41:47Z",
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5730
+            "stars": 5731
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2026-06-29T08:04:50Z",
             "owner": "wddadk",
             "repo": "OSINT-for-countries",
-            "stars": 887
+            "stars": 888
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21438
+            "stars": 21455
           }
         },
         {
@@ -891,7 +891,7 @@
             "last_commit": "2026-08-22T04:47:40Z",
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7703
+            "stars": 7704
           }
         },
         {
@@ -921,7 +921,7 @@
             "last_commit": "2026-08-24T05:10:36Z",
             "owner": "osintbrazuca",
             "repo": "osint-brazuca",
-            "stars": 2675
+            "stars": 2679
           }
         },
         {
@@ -936,7 +936,7 @@
             "last_commit": "2023-05-10T23:04:13Z",
             "owner": "HowToFind-bot",
             "repo": "osint-tools",
-            "stars": 1324
+            "stars": 1325
           }
         },
         {
@@ -1026,7 +1026,7 @@
             "last_commit": "2026-08-25T21:17:45Z",
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28343
+            "stars": 28411
           }
         },
         {
@@ -1053,10 +1053,10 @@
             "archived": false,
             "id": 326228917,
             "language": "Go",
-            "last_commit": "2026-08-24T12:23:53Z",
+            "last_commit": "2026-08-27T10:33:28Z",
             "owner": "projectdiscovery",
             "repo": "katana",
-            "stars": 17347
+            "stars": 17350
           }
         },
         {
@@ -1131,7 +1131,7 @@
             "last_commit": "2026-05-12T12:42:04Z",
             "owner": "cipher387",
             "repo": "osint_stuff_tool_collection",
-            "stars": 8737
+            "stars": 8738
           }
         },
         {
@@ -1221,7 +1221,7 @@
             "last_commit": "2026-05-17T09:49:09Z",
             "owner": "The-Osint-Toolbox",
             "repo": "Telegram-OSINT",
-            "stars": 1968
+            "stars": 1969
           }
         },
         {
@@ -1304,9 +1304,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T20:03:26.396Z",
-    "original_repository": "OffcierCia/non-typical-OSINT-guide",
-    "original_repository_id": 618411219,
+    "last_updated": "2026-08-27T11:53:29.589Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 618411219,
+      "language": null,
+      "last_commit": "2026-07-15T13:27:43Z",
+      "owner": "OffcierCia",
+      "repo": "non-typical-OSINT-guide",
+      "stars": 1568
+    },
     "original_repository_sha": "57fa77d38e92a844ab12b85117d2d34162b32b1b",
     "enhanced_repository": "enhansome/enhansome-non-typical-OSINT-guide",
     "enhanced_repository_description": null,
