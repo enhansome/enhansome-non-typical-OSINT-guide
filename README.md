@@ -11,14 +11,14 @@
 
 | Section                                   | Link                                                                                                                                    |
 | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Introduction: Civil OSINT                 | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#introduction-civil-osint) ⭐ 1,573 \| 🐛 1 \| 📅 2026-07-15              |
-| Immersive & Gamified Learning: Tricks (a) | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#immersive--gamified-learning-tricks-a) ⭐ 1,573 \| 🐛 1 \| 📅 2026-07-15 |
-| Training & Practicing                     | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#training--practicing) ⭐ 1,573 \| 🐛 1 \| 📅 2026-07-15                  |
-| Choosing a Pathway to Follow\...          | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#choosing-a-pathway-to-follow) ⭐ 1,573 \| 🐛 1 \| 📅 2026-07-15          |
-| Immersive & Gamified Learning: Games (b)  | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#immersive--gamified-learning-games-b) ⭐ 1,573 \| 🐛 1 \| 📅 2026-07-15  |
-| Work (A-Z)                                | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#work-a-z) ⭐ 1,573 \| 🐛 1 \| 📅 2026-07-15                              |
-| External Data                             | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#external-data) ⭐ 1,573 \| 🐛 1 \| 📅 2026-07-15                         |
-| Support Project                           | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#support-project) ⭐ 1,573 \| 🐛 1 \| 📅 2026-07-15                       |
+| Introduction: Civil OSINT                 | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#introduction-civil-osint) ⭐ 1,575 \| 🐛 1 \| 📅 2026-07-15              |
+| Immersive & Gamified Learning: Tricks (a) | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#immersive--gamified-learning-tricks-a) ⭐ 1,575 \| 🐛 1 \| 📅 2026-07-15 |
+| Training & Practicing                     | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#training--practicing) ⭐ 1,575 \| 🐛 1 \| 📅 2026-07-15                  |
+| Choosing a Pathway to Follow\...          | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#choosing-a-pathway-to-follow) ⭐ 1,575 \| 🐛 1 \| 📅 2026-07-15          |
+| Immersive & Gamified Learning: Games (b)  | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#immersive--gamified-learning-games-b) ⭐ 1,575 \| 🐛 1 \| 📅 2026-07-15  |
+| Work (A-Z)                                | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#work-a-z) ⭐ 1,575 \| 🐛 1 \| 📅 2026-07-15                              |
+| External Data                             | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#external-data) ⭐ 1,575 \| 🐛 1 \| 📅 2026-07-15                         |
+| Support Project                           | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#support-project) ⭐ 1,575 \| 🐛 1 \| 📅 2026-07-15                       |
 
 # Start Here
 
@@ -84,7 +84,7 @@ To begin with, I want to say that I will consider OSINT as a set of skills or a 
 <br />
 
 * [Awesome Intelligence](https://github.com/ARPSyndicate/awesome-intelligence) ⚠️ Archived
-* [On-Chain Investigations Handbook](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) ⭐ 1,937 | 🐛 6 | 📅 2026-06-03
+* [On-Chain Investigations Handbook](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) ⭐ 1,938 | 🐛 6 | 📅 2026-06-03
 * [The Beginner’s Guide to Open-Source Intelligence (OSINT): Techniques and Tools](https://medium.com/@mohitdeswal_35470/the-beginners-guide-to-open-source-intelligence-osint-techniques-and-tools-6a91b9c37ee1)
 
 </details>
@@ -100,7 +100,7 @@ All of what I said above you can develop in yourself, but the essence of all dir
 
 I would like to give you the first lesson, all resources which I will advise you - I studied by myself earlier:
 
-* [A definitive guide to generating usernames for OSINT purposes](https://github.com/soxoj/username-generation-guide) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2024-06-08
+* [A definitive guide to generating usernames for OSINT purposes](https://github.com/soxoj/username-generation-guide) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2026-09-05
 * [So You Think You Can Google? - Workshop With Henk van Ess](https://youtu.be/uyqXS5lL-mc)
 * [OSINT Origins #1 - Jean-Marc Manach/@manhack](https://youtu.be/XrTFzZ77eEI)
 * [An Awesome OSINT Mind-map](http://files.mtg-bi.com/MindMap.jpg)
@@ -208,7 +208,7 @@ The main thing to remember is your health, it is above all, do not let your prin
 <summary>Expand</summary>
 <br />
 
-* [OpSec researches and data terminals - contributions are welcome.](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) ⭐ 1,864 | 🐛 3 | 📅 2026-08-16
+* [OpSec researches and data terminals - contributions are welcome.](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) ⭐ 1,865 | 🐛 3 | 📅 2026-08-16
 * [Netstalking: In-Depth](https://graph.org/What-is-Netstalking-Netstalking-Information-Survivors-04-06)
 * [How I found early Solana ecosystem Developers using OSINT tactics](https://telegra.ph/How-I-found-early-Solana-ecosystem-Developers-using-OSINT-tactics-01-04)
 * [The Hitchhiker’s Guide to Online Anonymity](https://web.archive.org/web/20220302223645/https://anonymousplanet.org/guide.html)
@@ -341,9 +341,9 @@ Once you can distinguish the information, sort it out then the next thing you ca
 
 **Good training materials:**
 
-* [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) ⭐ 4,659 | 🐛 8 | 📅 2024-07-02
+* [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) ⭐ 4,664 | 🐛 8 | 📅 2024-07-02
 * [Python for OSINT 21 days](https://github.com/cipher387/python-for-OSINT-21-days) ⭐ 1,125 | 🐛 2 | 🌐 Python | 📅 2026-01-06
-* [Awesome Maps](https://github.com/simsieg/awesome-maps) ⭐ 509 | 🐛 9 | 📅 2026-08-11
+* [Awesome Maps](https://github.com/simsieg/awesome-maps) ⭐ 509 | 🐛 8 | 📅 2026-09-06
 * [New-Generation OSINT Framework](https://github.com/gowthamaraj/OSINT-Explorer) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-19
 * [Googledorking](https://tryhackme.com/room/googledorking) + [dorksearch.com](https://dorksearch.com/)
 * [Searchlightosint](https://tryhackme.com/room/searchlightosint)
@@ -382,9 +382,9 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 > [In addition to its traditional function of enabling less miscalculated decisions,](https://www.researchgate.net/publication/331073990_Digital_Open_Source_Intelligence_and_International_Security_A_Primer) the audience of modern intelligence is growing beyond state or corporation leadership, and is expanding to the public. It is no longer a mere warning mechanism, but also a know-how reservoir and improvisation pool to resolve matters in times of unexpected crises.
 
 * [Social Media OSINT](https://github.com/cqcore/Social-Media-OSINT) ⭐ 999 | 🐛 2 | 📅 2026-07-12
-* [Image Research OSINT](https://github.com/cqcore/Image-Research-OSINT) ⭐ 539 | 🐛 4 | 📅 2026-07-12
+* [Image Research OSINT](https://github.com/cqcore/Image-Research-OSINT) ⭐ 541 | 🐛 4 | 📅 2026-07-12
 * [Awesome OSINT + Crypto](https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff) ⭐ 372 | 🐛 11 | 📅 2025-03-25
-* [Geolocation OSINT](https://github.com/cqcore/Geolocation-OSINT) ⭐ 347 | 🐛 1 | 📅 2026-05-24
+* [Geolocation OSINT](https://github.com/cqcore/Geolocation-OSINT) ⭐ 348 | 🐛 1 | 📅 2026-05-24
 * [NATO OSINT HandBook](https://github.com/lawsecnet/OPSEC/blob/master/NATO%20OSINT%20Handbook%20v1.2%20-%20Jan%202002.pdf) ⭐ 25 | 🐛 0 | 📅 2016-11-15
 * [Google Hacking](https://seckrd.com/google-hacking)
 * [GOSI: GIAC Open Source Intelligence](https://www.giac.org/certification/open-source-intelligence-gosi)
@@ -402,8 +402,8 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 
 > [In recent years, public interest in open-source intelligence gathering and analysis](https://www.sans.org/webcasts/atmic-talk-osint-mind-state-online-investigations-114115/) has increased exponentially. As this interest has grown, more and more OSINT investigations have been relying on tools and automation, leaving the analysis process behind. You should consider OSINT a thought process. The "OSINT state of mind" is key for keeping track of your investigative steps, picking the right tools and sources, analyzing the data, and reporting to generate actionable intelligence!
 
-* [Sherlock](https://github.com/sherlock-project/sherlock) ⭐ 90,982 | 🐛 340 | 🌐 Python | 📅 2026-09-05
-* [Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt) ⭐ 21,251 | 🐛 122 | 🌐 Python | 📅 2025-06-23
+* [Sherlock](https://github.com/sherlock-project/sherlock) ⭐ 91,033 | 🐛 342 | 🌐 Python | 📅 2026-09-06
+* [Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt) ⭐ 21,252 | 🐛 122 | 🌐 Python | 📅 2025-06-23
 * [OSINT + AI](https://github.com/jiep/offensive-ai-compilation) ⭐ 1,422 | 🐛 3 | 🌐 HTML | 📅 2026-09-04
 * [Offensive AI](https://github.com/jiep/offensive-ai-compilation) ⭐ 1,422 | 🐛 3 | 🌐 HTML | 📅 2026-09-04
 * [OSINT Buddy](https://github.com/jerlendds/osintbuddy) ⚠️ Archived
@@ -437,7 +437,7 @@ Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magn
 
 **Explore data terminals:**
 
-* [A collection of several hundred online tools for OSINT](https://github.com/cipher387/osint_stuff_tool_collection) ⭐ 8,783 | 🐛 93 | 🌐 HTML | 📅 2026-05-12
+* [A collection of several hundred online tools for OSINT](https://github.com/cipher387/osint_stuff_tool_collection) ⭐ 8,786 | 🐛 93 | 🌐 HTML | 📅 2026-05-12
 * [Phantom Tide](https://github.com/tg12/phantomtide) ⭐ 122 | 🐛 4 | 📅 2026-08-18 - Cross-domain OSINT dashboard for maritime and airspace analysis.
 * [Open-Source Intelligence (OSINT) Reconnaissance](https://z3r0trust.medium.com/open-source-intelligence-osint-reconnaissance-9f0bafd672b2)
 * [This page is for anyone who loves open source investigating](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
@@ -449,13 +449,13 @@ Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magn
 * [\* What’s that font?](https://osintessentials.medium.com/wtf-be0de2230ed2)
 * [OSINT Cheatsheet](https://thekaiz3n.com/cheatsheet/2022/01/12/osint.html)
 
-You may even want to de-anonymize telegram users ([read this channel](https://t.me/ibederov_en)) or, conversely, join [counter-OSINT](https://github.com/soxoj/counter-osint-guide-en) ⭐ 365 | 🐛 1 | 📅 2026-08-17 bros. But in doing so, I urge you not to forget the key skills of information retrieval, information analytics, and information application...
+You may even want to de-anonymize telegram users ([read this channel](https://t.me/ibederov_en)) or, conversely, join [counter-OSINT](https://github.com/soxoj/counter-osint-guide-en) ⭐ 365 | 🐛 1 | 📅 2026-09-05 bros. But in doing so, I urge you not to forget the key skills of information retrieval, information analytics, and information application...
 
 <details>
 <summary>Expand</summary>
 <br />
 
-* [Counter OSINT Guide](https://github.com/soxoj/counter-osint-guide-en) ⭐ 365 | 🐛 1 | 📅 2026-08-17
+* [Counter OSINT Guide](https://github.com/soxoj/counter-osint-guide-en) ⭐ 365 | 🐛 1 | 📅 2026-09-05
 * [HUMINT VS Social Engineering Resources](https://telegra.ph/HUMINT-VS-Social-Engineering-Resources-03-24)
 * [From oblivion to illumination. Part 1 | On the line of creativity and defense](https://mirror.xyz/0xc34B1730BA53abD717a1E57A358F39C046053581/Ra_UVvUwOrO5W56k2QpP4jKhYAGMhsNnfvwrdKWQ1EI)
 * [How to learn anything.](https://twitter.com/sahilbloom/status/1662453471608446976)
@@ -518,7 +518,7 @@ Carefully study these resources and come back to them as you journey through the
 <br />
 
 * [Counter OSINT](https://github.com/CScorza/OSINTAnonymous) ⭐ 473 | 🐛 0 | 📅 2026-01-18
-* [Comprehensive Counter OSINT](https://github.com/soxoj/counter-osint-guide-en) ⭐ 365 | 🐛 1 | 📅 2026-08-17
+* [Comprehensive Counter OSINT](https://github.com/soxoj/counter-osint-guide-en) ⭐ 365 | 🐛 1 | 📅 2026-09-05
 * [Open Source Intelligence Investigation: From Strategy to Implementation](https://www.researchgate.net/publication/321531302_Open_Source_Intelligence_Investigation_From_Strategy_to_Implementation)
 * [Intelligence in the internet age: The emergence and evolution of Open Source Intelligence (OSINT)](https://www.sciencedirect.com/science/article/abs/pii/S0747563211002585)
 * [A Guide to Open-Source Intelligence (OSINT)](https://greydynamics.com/a-guide-to-open-source-intelligence-osint/)
@@ -568,7 +568,7 @@ Since this is an atypical guide, I think it's worthwhile to offer you a list of 
 
 **OSINT Bookshelf:**
 
-* [Offensive OSINT Tools](https://github.com/wddadk/Offensive-OSINT-Tools) ⭐ 1,267 | 🐛 1 | 📅 2026-07-30
+* [Offensive OSINT Tools](https://github.com/wddadk/Offensive-OSINT-Tools) ⭐ 1,269 | 🐛 1 | 📅 2026-07-30
 * [My recently read OSINT & security books – recommendations](https://www.osintme.com/index.php/2021/04/30/my-recently-read-osint-security-books-recommendations/)
 * [geodetective.io Training](https://geodetective.io/)
 * [The Open Source Intelligence Analysis Bookshelf](https://medium.com/the-sleuth-sheet/the-open-source-intelligence-analysis-bookshelf-942dc05a16bd)
@@ -582,7 +582,7 @@ Since this is an atypical guide, I think it's worthwhile to offer you a list of 
 
 **Zettelkasten Method:**
 
-* [Awesome OSINT](https://github.com/jivoi/awesome-osint) ⭐ 29,174 | 🐛 2 | 📅 2026-09-04
+* [Awesome OSINT](https://github.com/jivoi/awesome-osint) ⭐ 29,191 | 🐛 4 | 📅 2026-09-04
 * [OSINT Guide](https://github.com/drull1000/OSINT-guide) ⭐ 15 | 🐛 0 | 📅 2024-01-02
 * [Zettelkasten Method With Obsidian- How to Take Smart Notes](https://beingpax.medium.com/zettelkasten-method-with-obsidian-how-to-take-smart-notes-with-examples-cdaf348febbd)
 * [Setting Up a Zettelkasten in Obsidian: More Than a Note-Taking App](https://facedragons.com/productivity/setting-up-a-zettelkasten-in-obsidian/)
@@ -612,8 +612,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 **Work:**
 
-* [On-Chain Investigations Tools List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) ⭐ 1,937 | 🐛 6 | 📅 2026-06-03
-* [AML/Crypto Investigations](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) ⭐ 1,937 | 🐛 6 | 📅 2026-06-03
+* [On-Chain Investigations Tools List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) ⭐ 1,938 | 🐛 6 | 📅 2026-06-03
+* [AML/Crypto Investigations](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) ⭐ 1,938 | 🐛 6 | 📅 2026-06-03
 * [Python for OSINT 21 days](https://github.com/cipher387/python-for-OSINT-21-days) ⭐ 1,125 | 🐛 2 | 🌐 Python | 📅 2026-01-06
 * [anonfriendly.com](http://anonfriendly.com/)
 * [osintjobs](https://twitter.com/osintjobs)
@@ -655,11 +655,11 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 > **According to [GoldenOwl](https://osintteam.blog/safeguarding-osinters-shielding-against-disinformation-manipulation-dfbbfbf1db08):** As the battle against disinformation intensifies, OSINT practitioners must be vigilant in protecting themselves from manipulation. By adopting a critical mindset, diversifying information sources, verifying social media information, utilizing fact-checking tools, staying updated on disinformation techniques, collaborating with trusted communities, educating others, [maintaining ethical standards](https://osintteam.blog/safeguarding-osinters-shielding-against-disinformation-manipulation-dfbbfbf1db08), and cross-checking information, OSINTers can fortify themselves against manipulation and uphold the integrity of their research.
 
-* [spiderfoot](https://github.com/smicallef/spiderfoot) ⭐ 21,733 | 🐛 320 | 🌐 Python | 📅 2026-04-13
+* [spiderfoot](https://github.com/smicallef/spiderfoot) ⭐ 21,759 | 🐛 321 | 🌐 Python | 📅 2026-04-13
 * [Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) ⭐ 7,706 | 🐛 114 | 🌐 Jupyter Notebook | 📅 2026-08-22
-* [Digital Forensics Guide](https://github.com/mikeroyal/Digital-Forensics-Guide) ⭐ 3,132 | 🐛 6 | 🌐 Python | 📅 2024-01-04
-* [osint-Brazil](https://github.com/osintbrazuca/osint-brazuca) ⭐ 2,707 | 🐛 2 | 🌐 Python | 📅 2026-08-24
-* [OSINT open-source tools catalogue](https://github.com/HowToFind-bot/osint-tools) ⭐ 1,332 | 🐛 6 | 📅 2023-05-10
+* [Digital Forensics Guide](https://github.com/mikeroyal/Digital-Forensics-Guide) ⭐ 3,133 | 🐛 6 | 🌐 Python | 📅 2024-01-04
+* [osint-Brazil](https://github.com/osintbrazuca/osint-brazuca) ⭐ 2,708 | 🐛 2 | 🌐 Python | 📅 2026-08-24
+* [OSINT open-source tools catalogue](https://github.com/HowToFind-bot/osint-tools) ⭐ 1,335 | 🐛 6 | 📅 2023-05-10
 * [Awesome OSINT Web3](https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff) ⭐ 372 | 🐛 11 | 📅 2025-03-25
 * [Maltego Transforms List](https://github.com/cipher387/maltego-transforms-list) ⭐ 275 | 🐛 2 | 📅 2024-11-09
 * [Data Journalism Resources](https://github.com/r3mlab/datajournalism-resources) ⚠️ Archived
@@ -675,8 +675,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 > [As practice shows](https://medium.com/@ibederov_en/military-intelligence-using-osint-methods-4aae1df2d812), modern armed conflicts require new approaches to organizing the collection and analysis of open data, which we operate within the framework of OSINT. Be careful with it and think twice before acting.
 
-* [Awesome OSINT](https://github.com/jivoi/awesome-osint) ⭐ 29,174 | 🐛 2 | 📅 2026-09-04
-* [Awesome Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) ⭐ 2,861 | 🐛 18 | 📅 2024-08-03
+* [Awesome OSINT](https://github.com/jivoi/awesome-osint) ⭐ 29,191 | 🐛 4 | 📅 2026-09-04
+* [Awesome Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) ⭐ 2,860 | 🐛 18 | 📅 2024-08-03
 * [Human Touch in Digital Defense: Virtual HUMINT’s Battle Against Cyber Threats](https://osintteam.blog/human-touch-in-digital-defense-virtual-humints-battle-against-cyber-threats-33b81b3be53b)
 * [From Zero to Google Dorking Hero: Enhancing Your OSINT Arsenal](https://osintteam.blog/mastering-osint-the-art-of-google-dorking-for-investigators-e0a908055873)
 * [Using ddg.gg for OSINT](https://www.ghacks.net/2023/04/24/duckduckgo-disables-most-search-filters-from-search/?amp)
@@ -700,10 +700,10 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 > [Remember, Your task for this](https://medium.com/@ronkaminskyy/from-zero-to-sherlock-the-ultimate-osint-adventure-5f9d8c45ae2) final step is to make a plan for maintaining and improving your OSINT skills. Choose some resources for continuous learning, find some challenges to participate in, and consider joining an OSINT community. Lastly, review your ethical guidelines to ensure you are always [working responsibly](https://officercia.mirror.xyz/1XgiSTo2QKTi2bow7B6IF3nTB9K-_k4eBBl79sqmZFs) and respectfully. - [Ron Kaminsky](https://medium.com/@ronkaminskyy/from-zero-to-sherlock-the-ultimate-osint-adventure-5f9d8c45ae2)
 
-* [A next-generation crawling and spidering framework](https://github.com/projectdiscovery/katana) ⭐ 17,395 | 🐛 41 | 🌐 Go | 📅 2026-09-04
+* [A next-generation crawling and spidering framework](https://github.com/projectdiscovery/katana) ⭐ 17,398 | 🐛 43 | 🌐 Go | 📅 2026-09-04
 * [Awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) ⭐ 6,397 | 🐛 8 | 📅 2026-02-15
-* [Awesome Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring) ⭐ 2,913 | 🐛 1 | 📅 2025-06-29
-* [E4GL30S1NT](https://github.com/C0MPL3XDEV/E4GL30S1NT) ⭐ 696 | 🐛 1 | 🌐 Python | 📅 2026-07-05
+* [Awesome Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring) ⭐ 2,914 | 🐛 1 | 📅 2025-06-29
+* [E4GL30S1NT](https://github.com/C0MPL3XDEV/E4GL30S1NT) ⭐ 697 | 🐛 1 | 🌐 Python | 📅 2026-07-05
 * [datashare.icij.org](https://datashare.icij.org)
 * [Pinpoint](https://journaliststudio.google.com/pinpoint/collections)
 * [dtsearch.com](https://www.dtsearch.com/)
@@ -725,7 +725,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 > **According to [Alessandra Adina](https://medium.com/@alessandraadina/how-to-do-cyber-reconnaissance-a-guide-to-osint-for-non-tech-professionals-da6c7db48699):** The intelligence cycle represents the process of developing raw information into actionable intelligence. This process can enable decision-makers to take appropriate actions based on their findings. While different organisations use variations on different intelligence cycles, a popular one is a five-step cycle: **Planning, Gathering, Analyzing, Dissemination, and Feedback.**
 
-* [List of OSINT Web Resources](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/1-Complete-List-of-OSINT-Web-Resources.md) ⭐ 966 | 🐛 12 | 🌐 HTML | 📅 2024-08-01
+* [List of OSINT Web Resources](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/1-Complete-List-of-OSINT-Web-Resources.md) ⭐ 967 | 🐛 12 | 🌐 HTML | 📅 2024-08-01
 * [OSINT: How to find information on anyone](https://osintteam.blog/osint-how-to-find-information-on-anyone-5029a3c7fd56)
 * [OSINT — Beginner’s Guide (Part 1)](https://medium.com/@Aardwarewolf/what-is-osint-part-1-91aaa3890643)
 * [OSINT: FOUNDATIONS](https://i-intelligence.eu/courses/osint-foundations)
@@ -747,9 +747,9 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 > Understanding the value of your organisation’s information, potential attack vectors, and who might be targeted in phishing attacks or other types of social engineering is essential. OSINT can aid you in assessing these risks and planning appropriate defences.
 
-* [A collection of several hundred online tools for OSINT](https://github.com/cipher387/osint_stuff_tool_collection) ⭐ 8,783 | 🐛 93 | 🌐 HTML | 📅 2026-05-12
+* [A collection of several hundred online tools for OSINT](https://github.com/cipher387/osint_stuff_tool_collection) ⭐ 8,786 | 🐛 93 | 🌐 HTML | 📅 2026-05-12
 * [OrienterNet Visual Localization in 2D Public Maps with Neural Matching](https://github.com/facebookresearch/OrienterNet) ⭐ 577 | 🐛 37 | 🌐 Python | 📅 2026-08-04
-* [Geolocation-OSINT](https://github.com/cqcore/Geolocation-OSINT) ⭐ 347 | 🐛 1 | 📅 2026-05-24
+* [Geolocation-OSINT](https://github.com/cqcore/Geolocation-OSINT) ⭐ 348 | 🐛 1 | 📅 2026-05-24
 * [OSINT-TOOLS-CLI](https://github.com/Coordinate-Cat/OSINT-TOOLS-CLI) ⭐ 101 | 🐛 1 | 🌐 Rust | 📅 2025-10-12
 * [GraphSense Maltego Transform](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform) ⭐ 43 | 🐛 5 | 🌐 Python | 📅 2024-12-28
 * [OSINT Tools - Airtable](https://airtable.com/embed/shrYXDdO1V5y33lIX/tblgDtMXI4fxtg9Op)
@@ -770,8 +770,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 > According to [Ron Kaminsky](https://osintteam.blog/unveiling-the-digital-detective-essential-osint-tools-and-techniques-for-investigators-adf486ad2ccd): OSINT has revolutionized the world of investigations, empowering individuals and organizations to uncover valuable information, solve complex problems, and make informed decisions. [The ability to harness](https://osintteam.blog/unveiling-the-digital-detective-essential-osint-tools-and-techniques-for-investigators-adf486ad2ccd) the vast amount of data available in open sources has opened up new possibilities and transformed the investigative landscape. By utilizing OSINT tools effectively, investigators can save time, gather comprehensive information, and uncover connections that may have otherwise remained hidden. The techniques and methodologies explored in this guide provide a roadmap for conducting thorough and successful OSINT investigations.
 
-* [Awesome Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) ⭐ 2,861 | 🐛 18 | 📅 2024-08-03
-* [Telegram OSINT](https://github.com/cqcore/Telegram-OSINT) ⭐ 1,982 | 🐛 4 | 📅 2026-05-17
+* [Awesome Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) ⭐ 2,860 | 🐛 18 | 📅 2024-08-03
+* [Telegram OSINT](https://github.com/cqcore/Telegram-OSINT) ⭐ 1,983 | 🐛 4 | 📅 2026-05-17
 * [DiscordOSINT](https://github.com/AtonceInventions/DiscordOSINT) ⭐ 595 | 🐛 0 | 📅 2024-08-08
 * [Awesome Discord](https://github.com/jacc/awesome-discord) ⭐ 535 | 🐛 25 | 📅 2026-05-11
 * [TelegramOnlineSpy](https://github.com/Forichok/TelegramOnlineSpy) ⭐ 523 | 🐛 30 | 🌐 Python | 📅 2024-08-10
@@ -821,4 +821,4 @@ You can also send me a donation to the address from [this repository](https://gi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
