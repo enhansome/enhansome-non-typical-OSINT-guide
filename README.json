@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "ARPSyndicate",
                 "repo": "awesome-intelligence",
-                "stars": 2415,
+                "stars": 2414,
                 "topics": [
                   "awesome",
                   "awesome-intelligence",
@@ -55,7 +55,7 @@
                 "language": null,
                 "license": "Unlicense",
                 "last_commit": "2026-06-03T14:21:13Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "OffcierCia",
                 "repo": "On-Chain-Investigations-Tools-List",
                 "stars": 1962,
@@ -193,7 +193,7 @@
                 "open_issues": 2,
                 "owner": "OffcierCia",
                 "repo": "Crypto-OpSec-SelfGuard-RoadMap",
-                "stars": 1878,
+                "stars": 1879,
                 "topics": [
                   "awesome-list",
                   "blockchain",
@@ -290,7 +290,7 @@
             "open_issues": 1,
             "owner": "joe-shenouda",
             "repo": "awesome-cyber-skills",
-            "stars": 4718,
+            "stars": 4719,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:16.894Z"
@@ -311,7 +311,7 @@
             "open_issues": 2,
             "owner": "cipher387",
             "repo": "python-for-OSINT-21-days",
-            "stars": 1127,
+            "stars": 1126,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:16.894Z"
@@ -328,7 +328,7 @@
             "id": 251352423,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-06T04:22:10Z",
+            "last_commit": "2026-10-09T02:05:11Z",
             "open_issues": 14,
             "owner": "simsieg",
             "repo": "awesome-maps",
@@ -394,7 +394,7 @@
             "open_issues": 6,
             "owner": "The-Osint-Toolbox",
             "repo": "Social-Media-OSINT",
-            "stars": 1037,
+            "stars": 1038,
             "topics": [
               "bluesky",
               "dating-app",
@@ -550,11 +550,11 @@
             "id": 162998479,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-08T05:19:11Z",
+            "last_commit": "2026-10-09T05:19:12Z",
             "open_issues": 356,
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 93614,
+            "stars": 93712,
             "topics": [
               "cli",
               "cti",
@@ -592,7 +592,7 @@
             "open_issues": 125,
             "owner": "LiLittleCat",
             "repo": "awesome-free-chatgpt",
-            "stars": 21303,
+            "stars": 21305,
             "topics": [
               "awesome",
               "awesome-list",
@@ -617,7 +617,7 @@
             "language": "HTML",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-03T07:03:04Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "jiep",
             "repo": "offensive-ai-compilation",
             "stars": 1437,
@@ -644,7 +644,7 @@
             "language": "HTML",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-03T07:03:04Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "jiep",
             "repo": "offensive-ai-compilation",
             "stars": 1437,
@@ -674,7 +674,7 @@
             "open_issues": 7,
             "owner": "jerlendds",
             "repo": "osintbuddy",
-            "stars": 839,
+            "stars": 838,
             "topics": [
               "data-mining",
               "data-visualization",
@@ -777,7 +777,7 @@
             "open_issues": 108,
             "owner": "cipher387",
             "repo": "osint_stuff_tool_collection",
-            "stars": 8915,
+            "stars": 8920,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1007,7 +1007,7 @@
             "open_issues": 0,
             "owner": "ARPSyndicate",
             "repo": "awesome-intelligence",
-            "stars": 2415,
+            "stars": 2414,
             "topics": [
               "awesome",
               "awesome-intelligence",
@@ -1151,10 +1151,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T04:16:14Z",
-            "open_issues": 4,
+            "open_issues": 6,
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 30045,
+            "stars": 30078,
             "topics": [
               "awesome-list",
               "osint",
@@ -1213,7 +1213,7 @@
             "language": null,
             "license": "Unlicense",
             "last_commit": "2026-06-03T14:21:13Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
             "stars": 1962,
@@ -1250,7 +1250,7 @@
             "language": null,
             "license": "Unlicense",
             "last_commit": "2026-06-03T14:21:13Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
             "stars": 1962,
@@ -1290,7 +1290,7 @@
             "open_issues": 2,
             "owner": "cipher387",
             "repo": "python-for-OSINT-21-days",
-            "stars": 1127,
+            "stars": 1126,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:16.894Z"
@@ -1317,7 +1317,7 @@
             "open_issues": 18,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5751,
+            "stars": 5753,
             "topics": [
               "dns",
               "domains",
@@ -1348,10 +1348,10 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2026-09-25T14:27:00Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "osintambition",
             "repo": "Social-Media-OSINT-Tools-Collection",
-            "stars": 2016,
+            "stars": 2020,
             "topics": [
               "humint",
               "osint",
@@ -1458,10 +1458,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-04-13T19:43:06Z",
-            "open_issues": 329,
+            "open_issues": 330,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 23189,
+            "stars": 23238,
             "topics": [
               "attacksurface",
               "cti",
@@ -1523,7 +1523,7 @@
             "open_issues": 6,
             "owner": "mikeroyal",
             "repo": "Digital-Forensics-Guide",
-            "stars": 3176,
+            "stars": 3180,
             "topics": [
               "alerting",
               "cyber-security",
@@ -1565,7 +1565,7 @@
             "open_issues": 0,
             "owner": "osintbrazuca",
             "repo": "osint-brazuca",
-            "stars": 2786,
+            "stars": 2788,
             "topics": [
               "brasil",
               "hacking",
@@ -1593,7 +1593,7 @@
             "open_issues": 6,
             "owner": "HowToFind-bot",
             "repo": "osint-tools",
-            "stars": 1359,
+            "stars": 1361,
             "topics": [
               "analysis",
               "bssid",
@@ -1746,10 +1746,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T04:16:14Z",
-            "open_issues": 4,
+            "open_issues": 6,
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 30045,
+            "stars": 30078,
             "topics": [
               "awesome-list",
               "osint",
@@ -1774,7 +1774,7 @@
             "open_issues": 22,
             "owner": "ItIsMeCall911",
             "repo": "Awesome-Telegram-OSINT",
-            "stars": 2905,
+            "stars": 2906,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1799,10 +1799,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-08T09:46:47Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "projectdiscovery",
             "repo": "katana",
-            "stars": 17632,
+            "stars": 17639,
             "topics": [
               "cli",
               "crawler",
@@ -1831,7 +1831,7 @@
             "open_issues": 6,
             "owner": "sindresorhus",
             "repo": "awesome-chatgpt",
-            "stars": 6439,
+            "stars": 6444,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1898,7 +1898,7 @@
             "open_issues": 1,
             "owner": "C0MPL3XDEV",
             "repo": "E4GL30S1NT",
-            "stars": 700,
+            "stars": 701,
             "topics": [
               "dorker",
               "information-gathering",
@@ -1975,7 +1975,7 @@
             "open_issues": 108,
             "owner": "cipher387",
             "repo": "osint_stuff_tool_collection",
-            "stars": 8915,
+            "stars": 8920,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2132,7 +2132,7 @@
             "open_issues": 22,
             "owner": "ItIsMeCall911",
             "repo": "Awesome-Telegram-OSINT",
-            "stars": 2905,
+            "stars": 2906,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2160,7 +2160,7 @@
             "open_issues": 6,
             "owner": "The-Osint-Toolbox",
             "repo": "Telegram-OSINT",
-            "stars": 2039,
+            "stars": 2040,
             "topics": [
               "blogs",
               "bot",
@@ -2210,10 +2210,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-05-11T15:03:26Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "jacc",
             "repo": "awesome-discord",
-            "stars": 537,
+            "stars": 538,
             "topics": [
               "addon",
               "awesome",
@@ -2311,7 +2311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:20:54.645Z",
+    "last_updated": "2026-10-09T22:38:09.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome! ",
@@ -2323,7 +2323,7 @@
       "open_issues": 3,
       "owner": "OffcierCia",
       "repo": "non-typical-OSINT-guide",
-      "stars": 1594,
+      "stars": 1596,
       "topics": [
         "awesome-list",
         "awesome-lists",
